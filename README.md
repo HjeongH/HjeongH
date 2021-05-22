@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=🌻Enchantée🌻&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=230&section=header&text=🌻Enchantée🌻&fontAlignY=30)
 ### Hi there 👋
 ## 아아아아
 ## 아아아아
-tool
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
