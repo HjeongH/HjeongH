@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Enchantée&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Enchantée&fontAlignY=30)
 ### Hi there 👋
 ## 아아아아
 ## 아아아아
-![footer](https://capsule-render.vercel.app/api?section=footer)
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient)
 
 <!--
 **HjeongH/HjeongH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
