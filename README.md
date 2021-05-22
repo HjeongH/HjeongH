@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi!%20Hello~&fontSize=60)
-
 ### Hi there 👋
 ## 아아아아
 ## 아아아아
+![footer](https://capsule-render.vercel.app/api?section=footer)
 
 <!--
 **HjeongH/HjeongH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
