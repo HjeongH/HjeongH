@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi!%20Hello~&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Enchantée&fontAlignY=30)
 ### Hi there 👋
 ## 아아아아
 ## 아아아아
