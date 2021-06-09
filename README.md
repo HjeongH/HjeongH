@@ -10,7 +10,8 @@ I am majoring in "Child Psychology & Education" and "Statistics"
 #### 👑 Experience 👑
 <sup>[20.09 ~ 21.06]</sup> 성균관대학교 통계분석학회 P-SAT                       
 <sup>[21.01 ~ 21.02]</sup> COMPAS 오산시 어린이교통사고 위험지역 도출 과제 (최우수상, 1위)  
-
+<sup>*https://compas.lh.or.kr/subj/past/code-list?subjNo=SBJ_2012_001*</sup>  
+  
 #### 📝 Tech Stack 📝
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
